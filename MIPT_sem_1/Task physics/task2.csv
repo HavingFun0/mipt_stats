@@ -1,0 +1,199 @@
+pl_name,hostname,discoverymethod,pl_bmassj,st_spectype,st_met,st_metratio,If planet mass>0.3 1; else,If metal>0 1; else 0,,
+61 Vir b,61 Vir,Radial Velocity,0,1600,G5 V,0,10,[Fe/H],0,0
+61 Vir c,61 Vir,Radial Velocity,0,5700,G5 V,0,10,[Fe/H],0,0
+61 Vir d,61 Vir,Radial Velocity,0,7200,G5 V,0,10,[Fe/H],0,0
+24 Sex b,24 Sex,Radial Velocity,1,99000,,0,30,[Fe/H],1,0
+24 Sex c,24 Sex,Radial Velocity,0,86000,,0,30,[Fe/H],1,0
+91 Aqr b,91 Aqr,Radial Velocity,3,20000,K0 III,0,30,[Fe/H],1,0
+BD-17 63 b,BD-17 63,Radial Velocity,5,10000,K5 V,0,30,[Fe/H],1,0
+CoRoT-11 b,CoRoT-11,Transit,2,34000,,0,30,[Fe/H],1,0
+Kepler-117 b,Kepler-117,Transit,0,9400,F8 V,0,40,[Fe/H],0,0
+Kepler-117 c,Kepler-117,Transit,1,84000,F8 V,0,40,[Fe/H],1,0
+Kepler-25 b,Kepler-25,Transit,0,3020,,0,40,[Fe/H],0,0
+Kepler-25 d,Kepler-25,Radial Velocity,0,28300,,0,40,[Fe/H],0,0
+Kepler-29 b,Kepler-29,Transit,0,1419,,0,40,[Fe/H],0,0
+18 Del b,18 Del,Radial Velocity,10,3000,G6 III,0,52,[Fe/H],1,0
+81 Cet b,81 Cet,Radial Velocity,5,30000,G5 III,0,60,[Fe/H],1,0
+BD-08 2823 b,BD-08 2823,Radial Velocity,0,4500,K3 V,0,70,[Fe/H],0,0
+BD-08 2823 c,BD-08 2823,Radial Velocity,0,33000,K3 V,0,70,[Fe/H],1,0
+BD-13 2130 b,BD-13 2130,Radial Velocity,9,78000,,0,80,[Fe/H],1,0
+Kepler-19 d,Kepler-19,Radial Velocity,0,7079,,0,80,[Fe/H],0,0
+Kepler-1654 b,Kepler-1654,Transit,0,50000,G5 V,0,88,[Fe/H],1,0
+Kepler-23 b,Kepler-23,Transit,0,80000,,0,90,[M/H],1,0
+Kepler-23 c,Kepler-23,Transit,2,70000,,0,90,[M/H],1,0
+CoRoT-18 b,CoRoT-18,Transit,3,47000,G9 V,0,100,[Fe/H],1,0
+Kepler-177 b,Kepler-177,Transit,0,1837,,0,110,[Fe/H],0,0
+Kepler-177 c,Kepler-177,Transit,0,4625,,0,110,[Fe/H],0,0
+Kepler-1661 b,Kepler-1661,Transit,0,5349,K,0,120,[M/H],0,0
+6 Lyn b,6 Lyn,Radial Velocity,2,40000,K0 IV,0,130,[Fe/H],1,0
+BD+48 740 b,BD+48 740,Radial Velocity,1,70000,,0,130,[Fe/H],1,0
+Kepler-19 b,Kepler-19,Transit,0,6400,,0,130,[Fe/H],0,0
+Kepler-19 c,Kepler-19,Transit Timing Variations,6,0,,0,130,[Fe/H],1,0
+BD-06 1339 b,BD-06 1339,Radial Velocity,0,2700,K7/M0 V,0,140,[Fe/H],0,0
+BD-06 1339 c,BD-06 1339,Radial Velocity,0,17000,K7/M0 V,0,140,[Fe/H],0,0
+Kepler-1647 b,Kepler-1647,Transit,1,51968,,0,140,[Fe/H],1,0
+BD+20 594 b,BD+20 594,Transit,0,5129,G,0,150,[Fe/H],0,0
+Kepler-21 b,Kepler-21,Transit,0,3300,F6 IV,0,150,[Fe/H],0,0
+Kepler-1658 b,Kepler-1658,Transit,5,88000,,0,180,[m/H],1,0
+BD+49 828 b,BD+49 828,Radial Velocity,1,60000,K0,0,190,[Fe/H],1,0
+BD+48 738 b,BD+48 738,Radial Velocity,0,91000,K0 III,0,200,[Fe/H],1,0
+Kepler-26 b,Kepler-26,Transit,0,38000,,0,210,[M/H],1,0
+Kepler-26 c,Kepler-26,Transit,0,37500,,0,210,[M/H],1,0
+BD+15 2375 b,BD+15 2375,Radial Velocity,1,6100,,0,220,[Fe/H],1,0
+14 And b,14 And,Radial Velocity,4,80000,K0 III,0,240,[Fe/H],1,0
+Kepler-1655 b,Kepler-1655,Transit,0,1573,G0 V,0,240,[Fe/H],0,0
+4 UMa b,4 UMa,Radial Velocity,7,10000,K1 III,0,250,[Fe/H],1,0
+Kepler-138 b,Kepler-138,Transit,0,21,,0,280,[Fe/H],0,0
+Kepler-138 c,Kepler-138,Transit,0,620,,0,280,[Fe/H],0,0
+Kepler-138 d,Kepler-138,Transit,0,201,,0,280,[Fe/H],0,0
+Kepler-22 b,Kepler-22,Transit,0,11300,G5 V,0,290,[Fe/H],0,0
+Kepler-16 b,Kepler-16,Transit,0,33300,,0,300,[m/H],1,0
+11 Com b,11 Com,Radial Velocity,19,4000,G8 III,0,350,[Fe/H],1,0
+BD-11 4672 c,BD-11 4672,Radial Velocity,0,4836,,0,350,[Fe/H],0,0
+42 Dra b,42 Dra,Radial Velocity,3,88000,K1.5 III,0,460,[Fe/H],1,0
+BD+20 274 b,BD+20 274,Radial Velocity,4,20000,K5 III,0,460,[Fe/H],1,0
+BD-11 4672 b,BD-11 4672,Radial Velocity,0,53000,K7 V,0,480,[Fe/H],1,0
+BD+03 2562 b,BD+03 2562,Radial Velocity,6,40000,,0,710,[Fe/H],1,0
+24 Boo b,24 Boo,Radial Velocity,0,91000,G3 IV,0,770,[Fe/H],1,0
+BD+20 2457 b,BD+20 2457,Radial Velocity,21,4200,K2 II,-1,0,[Fe/H],1,0
+BD+20 2457 c,BD+20 2457,Radial Velocity,12,4700,K2 II,-1,0,[Fe/H],1,0
+CoRoT-17 b,CoRoT-17,Transit,2,43000,G2 V,0,0,[Fe/H],1,0
+CoRoT-2 b,CoRoT-2,Transit,3,30000,,0,0,,1,0
+CoRoT-21 b,CoRoT-21,Transit,2,26000,F8 IV,0,0,[Fe/H],1,0
+Kepler-29 c,Kepler-29,Transit,0,30000,,0,0,[Fe/H],0,0
+CoRoT-13 b,CoRoT-13,Transit,1,31200,,0,10,[Fe/H],1,1
+CoRoT-25 b,CoRoT-25,Transit,0,29300,,0,10,,0,1
+CoRoT-26 b,CoRoT-26,Transit,0,58000,,0,10,,1,1
+Kepler-20 d,Kepler-20,Transit,0,6300,,0,10,[Fe/H],0,1
+Kepler-25 c,Kepler-25,Transit,4,16000,,0,10,[M/H],1,1
+CoRoT-19 b,CoRoT-19,Transit,1,15500,,0,20,,1,1
+CoRoT-3 b,CoRoT-3,Transit,21,4400,,0,20,,1,1
+Kepler-20 e,Kepler-20,Transit,0,1000,,0,20,[Fe/H],0,1
+Kepler-20 f,Kepler-20,Transit,0,4500,,0,20,[Fe/H],0,1
+11 UMi b,11 UMi,Radial Velocity,10,5000,K4 III,0,40,[Fe/H],1,1
+47 UMa b,47 UMa,Radial Velocity,2,45000,G0 V,0,40,[Fe/H],1,1
+47 UMa c,47 UMa,Radial Velocity,0,54000,,0,40,[Fe/H],1,1
+47 UMa d,47 UMa,Radial Velocity,1,64000,,0,40,[Fe/H],1,1
+CoRoT-14 b,CoRoT-14,Transit,7,60000,F9 V,0,50,[Fe/H],1,1
+CoRoT-23 b,CoRoT-23,Transit,3,6000,,0,50,[Fe/H],1,1
+Kepler-289 b,Kepler-289,Transit,0,2300,,0,50,[Fe/H],0,1
+Kepler-289 d,Kepler-289,Transit,0,1300,,0,50,[Fe/H],0,1
+16 Cyg B b,16 Cyg B,Radial Velocity,1,68000,,0,60,[M/H],1,1
+CoRoT-1 b,CoRoT-1,Transit,1,23000,,0,60,,1,1
+Kepler-12 b,Kepler-12,Transit,0,43300,,0,70,,1,1
+Kepler-20 b,Kepler-20,Transit,0,3052,,0,70,[m/H],0,1
+Kepler-20 c,Kepler-20,Transit,0,4012,,0,70,[m/H],0,1
+Kepler-20 g,Kepler-20,Radial Velocity,0,6280,,0,70,[m/H],0,1
+BD+14 4559 b,BD+14 4559,Radial Velocity,1,47000,K2 V,0,100,[Fe/H],1,1
+CoRoT-27 b,CoRoT-27,Transit,10,3000,,0,100,,1,1
+Kepler-1514 b,Kepler-1514,Transit,5,28000,,0,119,[Fe/H],1,1
+Kepler-131 b,Kepler-131,Transit,0,5100,,0,120,[Fe/H],0,1
+Kepler-131 c,Kepler-131,Transit,0,2600,,0,120,[Fe/H],0,1
+Kepler-14 b,Kepler-14,Transit,7,68000,,0,120,[Fe/H],1,1
+CoRoT-20 b,CoRoT-20,Transit,4,23000,,0,140,,1,1
+CoRoT-28 b,CoRoT-28,Transit,0,48400,G8/9 IV,0,150,[Fe/H],1,1
+CoRoT-12 b,CoRoT-12,Transit,0,91700,,0,160,[Fe/H],1,1
+CoRoT-12 b,CoRoT-12,Transit,0,88700,,0,160,[Fe/H],1,1
+CoRoT-22 b,CoRoT-22,Transit,0,3800,G3 V,0,170,[Fe/H],0,1
+51 Peg b,51 Peg,Radial Velocity,0,47200,,0,180,[M/H],1,1
+30 Ari B b,30 Ari B,Radial Velocity,13,8200,,0,190,[Fe/H],1,1
+CoRoT-16 b,CoRoT-16,Transit,0,53500,G5 V,0,190,[M/H],1,1
+Kepler-1656 b,Kepler-1656,Transit,0,15291,,0,190,[Fe/H],0,1
+Kepler-18 b,Kepler-18,Transit,0,2200,,0,190,[Fe/H],0,1
+Kepler-18 c,Kepler-18,Transit,0,5400,,0,190,[Fe/H],0,1
+Kepler-18 d,Kepler-18,Transit,0,5200,,0,190,[Fe/H],0,1
+CoRoT-29 b,CoRoT-29,Transit,0,85000,K0 V,0,200,[Fe/H],1,1
+30 Ari B b,30 Ari B,Radial Velocity,9,88000,F6 V,0,245,[Fe/H],1,1
+CoRoT-10 b,CoRoT-10,Transit,2,73000,,0,260,,1,1
+Kepler-17 b,Kepler-17,Transit,2,34000,,0,260,[Fe/H],1,1
+CoRoT-24 b,CoRoT-24,Transit,0,1800,K1 V,0,300,[Fe/H],0,1
+CoRoT-24 c,CoRoT-24,Transit,0,8800,K1 V,0,300,[Fe/H],0,1
+Kepler-289 c,Kepler-289,Transit,0,42000,,0,330,[Fe/H],1,1
+Kepler-28 b,Kepler-28,Transit,1,51000,,0,340,[M/H],1,1
+Kepler-28 c,Kepler-28,Transit,1,36000,,0,340,[M/H],1,1
+Kepler-15 b,Kepler-15,Transit,0,69600,,0,360,[Fe/H],1,1
+BD-10 3166 b,BD-10 3166,Radial Velocity,0,45800,,0,382,[Fe/H],1,1
+Kepler-27 b,Kepler-27,Transit,9,11000,,0,410,[M/H],1,1
+Kepler-27 c,Kepler-27,Transit,13,8000,,0,410,[M/H],1,1
+14 Her b,14 Her,Radial Velocity,4,74000,,0,510,[Fe/H],1,1
+Kepler-30 b,Kepler-30,Transit,0,20000,,0,180,,0,1
+Kepler-30 c,Kepler-30,Transit,9,10000,,0,180,,1,1
+Kepler-30 d,Kepler-30,Transit,0,7300,,0,180,[Fe/H],0,1
+Kepler-307 b,Kepler-307,Transit,0,2341,,0,190,[Fe/H],0,1
+Kepler-307 c,Kepler-307,Transit,0,1145,,0,190,[Fe/H],0,1
+Kepler-31 c,Kepler-31,Transit,4,70000,,0,76,[Fe/H],1,0
+Kepler-31 d,Kepler-31,Transit,6,80000,,0,76,[Fe/H],1,0
+Kepler-32 b,Kepler-32,Transit,4,10000,,0,0,[Fe/H],1,0
+Kepler-32 c,Kepler-32,Transit,0,50000,,0,0,[Fe/H],1,0
+Kepler-34 b,Kepler-34,Transit,0,22000,,0,70,[m/H],0,0
+Kepler-35 b,Kepler-35,Transit,0,12700,,0,340,[m/H],0,0
+Kepler-36 b,Kepler-36,Transit,0,1205,,0,180,[Fe/H],0,0
+Kepler-36 c,Kepler-36,Transit,0,2243,,0,180,[Fe/H],0,0
+Kepler-37 b,Kepler-37,Transit,0,3146,,0,320,[Fe/H],0,0
+Kepler-37 c,Kepler-37,Transit,0,3776,,0,320,[Fe/H],0,0
+Kepler-37 d,Kepler-37,Transit,0,3839,,0,320,[Fe/H],0,0
+Kepler-39 b,Kepler-39,Transit,18,0,F7 IV,0,290,[Fe/H],1,0
+Kepler-4 b,Kepler-4,Transit,0,7700,,0,170,[Fe/H],0,1
+Kepler-40 b,Kepler-40,Transit,2,7000,,0,100,,1,1
+Kepler-406 b,Kepler-406,Transit,0,2000,,0,180,[Fe/H],0,1
+Kepler-406 c,Kepler-406,Transit,0,900,,0,180,[Fe/H],0,1
+Kepler-407 b,Kepler-407,Transit,0,1007,,0,330,[Fe/H],0,1
+Kepler-407 c,Kepler-407,Radial Velocity,12,6000,,0,330,[Fe/H],1,1
+Kepler-408 b,Kepler-408,Transit,0,1573,,0,200,[Fe/H],0,0
+Kepler-409 b,Kepler-409,Transit,0,6922,,0,80,[Fe/H],0,1
+Kepler-41 b,Kepler-41,Transit,0,56000,,0,290,[Fe/H],1,1
+Kepler-412 b,Kepler-412,Transit,0,94100,,0,270,[Fe/H],1,1
+Kepler-413 b,Kepler-413,Transit,0,21100,,0,200,[Fe/H],0,0
+Kepler-418 b,Kepler-418,Transit,1,10000,,0,50,[M/H],1,0
+Kepler-419 b,Kepler-419,Transit,2,50000,,0,176,[Fe/H],1,1
+Kepler-419 c,Kepler-419,Transit Timing Variations,7,30000,,0,176,[Fe/H],1,1
+Kepler-422 b,Kepler-422,Transit,0,43000,,0,230,[Fe/H],1,1
+Kepler-424 c,Kepler-424,Radial Velocity,6,97000,,0,440,[Fe/H],1,1
+Kepler-425 b,Kepler-425,Transit,0,22600,,0,240,,0,1
+Kepler-426 b,Kepler-426,Transit,0,33700,,0,210,,1,1
+Kepler-427 b,Kepler-427,Transit,0,29200,,0,190,,0,1
+Kepler-428 b,Kepler-428,Transit,1,28000,,0,90,,1,1
+Kepler-43 b,Kepler-43,Transit,3,23000,,0,330,[Fe/H],1,1
+Kepler-432 b,Kepler-432,Transit,0,57500,,0,70,,1,1
+Kepler-433 b,Kepler-433,Transit,2,81000,,0,60,,1,1
+Kepler-434 b,Kepler-434,Transit,2,86000,,0,250,[Fe/H],1,1
+Kepler-435 b,Kepler-435,Transit,0,85000,,0,170,,1,1
+Kepler-44 b,Kepler-44,Transit,1,2000,G2 IV,0,260,[Fe/H],1,1
+Kepler-447 b,Kepler-447,Transit,1,37000,G8 V,0,70,[Fe/H],1,1
+Kepler-45 b,Kepler-45,Transit,0,50500,M,0,280,[Fe/H],1,1
+Kepler-453 b,Kepler-453,Transit,0,5034,,0,90,[m/H],0,1
+Kepler-454 b,Kepler-454,Transit,0,2152,,0,270,[Fe/H],0,1
+Kepler-454 c,Kepler-454,Radial Velocity,4,46000,,0,270,[Fe/H],1,1
+Kepler-46 b,Kepler-46,Transit,0,88500,,0,410,[M/H],1,1
+Kepler-46 c,Kepler-46,Transit Timing Variations,0,36200,,0,410,[M/H],1,1
+Kepler-47 b,Kepler-47,Transit,2,0,,0,250,[m/H],1,0
+Kepler-47 c,Kepler-47,Transit,28,0,,0,250,[m/H],1,0
+Kepler-48 b,Kepler-48,Transit,0,1240,,0,170,[Fe/H],0,1
+Kepler-48 c,Kepler-48,Transit,0,4597,,0,170,[Fe/H],0,1
+Kepler-48 d,Kepler-48,Transit,0,2500,,0,170,[Fe/H],0,1
+Kepler-48 e,Kepler-48,Radial Velocity,2,6700,,0,170,[Fe/H],1,1
+Kepler-5 b,Kepler-5,Transit,2,11400,,0,40,[Fe/H],1,1
+Kepler-538 b,Kepler-538,Transit,0,3335,,0,30,[m/H],0,0
+Kepler-539 c,Kepler-539,Transit Timing Variations,2,40000,G2 V,0,10,[Fe/H],1,0
+Kepler-56 b,Kepler-56,Transit,0,9439,,0,363,[M/H],0,1
+Kepler-56 c,Kepler-56,Transit,0,61354,,0,363,[M/H],1,1
+Kepler-56 d,Kepler-56,Radial Velocity,5,61000,,0,363,[M/H],1,1
+Kepler-6 b,Kepler-6,Transit,0,63300,,0,340,[Fe/H],1,1
+Kepler-60 b,Kepler-60,Transit,0,1318,,0,90,[Fe/H],0,0
+Kepler-60 c,Kepler-60,Transit,0,1211,,0,90,[Fe/H],0,0
+Kepler-60 d,Kepler-60,Transit,0,1309,,0,90,[Fe/H],0,0
+Kepler-62 b,Kepler-62,Transit,0,3000,K2 V,0,370,[Fe/H],0,0
+Kepler-62 c,Kepler-62,Transit,0,1300,K2 V,0,370,[Fe/H],0,0
+Kepler-62 d,Kepler-62,Transit,0,4400,K2 V,0,370,[Fe/H],0,0
+Kepler-62 e,Kepler-62,Transit,0,11300,K2 V,0,370,[Fe/H],0,0
+Kepler-62 f,Kepler-62,Transit,0,11000,K2 V,0,370,[Fe/H],0,0
+Kepler-63 b,Kepler-63,Transit,0,37800,,0,50,[Fe/H],1,1
+Kepler-68 b,Kepler-68,Transit,0,2407,,0,126,[M/H],0,1
+Kepler-68 c,Kepler-68,Transit,0,642,,0,126,[M/H],0,1
+Kepler-68 d,Kepler-68,Radial Velocity,0,84007,,0,120,[Fe/H],1,1
+Kepler-7 b,Kepler-7,Transit,0,44900,,0,110,,1,1
+Kepler-74 b,Kepler-74,Transit,0,63000,F8 V,0,420,[Fe/H],1,1
+Kepler-75 b,Kepler-75,Transit,10,10000,,0,300,,1,1
+,,,,,,,0,0,,
+,,,,,,,0,0,,
+,,,,,,,0,0,,
